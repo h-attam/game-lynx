@@ -1,21 +1,15 @@
-## Rspeedy project
+# LynxjS - Game
 
-This is a ReactLynx project bootstrapped with `create-rspeedy`.
+Bu proje, LynxJS kullanılarak geliştirilen mobil uyumlu bir oyun keşif uygulamasıdır. IGDB API üzerinden veri çekerek, en çok beklenen, son çıkan, popüler ve en yüksek puanlı oyunları kategorilere ayırarak listeler.
 
-## Getting Started
+## Kullanılan Teknolojiler
 
-First, install the dependencies:
+- LynxJS
+- tanstack/react-query
+- react-query
+- react-router
+- lynx-js/react
 
-```bash
-pnpm install
-```
+## Ekran Görüntüsü
 
-Then, run the development server:
-
-```bash
-pnpm run dev
-```
-
-Scan the QRCode in the terminal with your LynxExplorer App to see the result.
-
-You can start editing the page by modifying `src/App.tsx`. The page auto-updates as you edit the file.
+![](</src/assets/0509(1).gif>)
